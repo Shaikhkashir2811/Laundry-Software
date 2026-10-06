@@ -12,7 +12,6 @@ A desktop-based **Laundry Management & Billing System** built to help laundry sh
 * 👨‍💼 **Employee Management** — Add, update and manage employee data
 * 🧺 **Service Management** — Add new services and items
 * 💵 **Flexible Pricing** — Set or change item prices directly while creating a bill
-* 👤 **Customer Management** — Store customer information for billing
 * ✅ **Validations** — Input validation to prevent incorrect billing data
 * 🖥️ **Desktop Application** — Designed for Windows-based laundry shops
 
@@ -56,40 +55,12 @@ The application uses **PostgreSQL** to store:
 ## 🚀 Future Enhancements
 
 * 📱 Customer SMS/WhatsApp notifications
-* 📈 Advanced revenue and business analytics
-* 🔐 Multiple user/employee login roles
 * ☁️ Cloud database & backup
 * 📦 Order status tracking
 * 🧾 Invoice customization
-* 🔄 Automatic database backup
 
 ## 📸 Screenshots
 
-### Dashboard
-
-<p align="center">
-  <img width="900" alt="Dashboard" src="YOUR_IMAGE_URL_HERE" />
-</p>
-
-### Billing
-
-<p align="center">
-  <img width="900" alt="Billing" src="YOUR_IMAGE_URL_HERE" />
-</p>
-
-### Records
-
-<p align="center">
-  <img width="900" alt="Records" src="YOUR_IMAGE_URL_HERE" />
-</p>
-
-### Employee Management
-
-<p align="center">
-  <img width="900" alt="Employee Management" src="YOUR_IMAGE_URL_HERE" />
-</p>
-
-### Revenue
 
 <p align="center">
   <img width="900" alt="Revenue" src="./Screenshots/Laundry1.png" />
